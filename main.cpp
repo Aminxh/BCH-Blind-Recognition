@@ -7,7 +7,7 @@ using namespace arma;
 
 int main(int argc, char *argv[])
 {
-    // Inittial parameters
+    // Initial parameters
     int extend = 0;
     int shortend = 0;
     int N = 8;
